@@ -1,6 +1,6 @@
 # SecurityLab - Preparación Ingeniero Seguridad
 
-Laboratorio profesional para preparación de rol: **Ingeniero de Seguridad** en Luz del Sur.
+Laboratorio profesional para preparación de rol: **Ingeniero de Seguridad**.
 
 **Duración:** 6-8 meses (Enero-Agosto 2026)
 **Estado:** Fase 1 - Completa ✓
